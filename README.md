@@ -14,7 +14,7 @@ Coming soon.
 
 ## Donuts
 
-If you'd like to see this plugin in the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) and/or any support in the future then feel free to make a donut:
+If you'd like to see this plugin in the [Chrome Web Store](https://chrome.google.com/webstore/category/extensions) and/or any support in the future then feel free to make a donation:
 
  * In DASH to XnV7gbSQ8m93jEfDYU2GzpnenCJzvk3su6
  * In BTC to bc1qdscx3y04w5effnqftqjz9u5h6qxle60hx933vd
