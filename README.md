@@ -14,7 +14,7 @@ Download the source code and put it somewhere in a folder. In your Chrome/Chromi
 
 ### Firefox
 
-Install the plugin from Firefox Browser ADD-ONS - [No Covid In Facebook](https://addons.mozilla.org/en-CA/developers/addon/no-covid-in-facebook) (it's on review though, should be ready in a few days)
+Install the plugin from Firefox Browser ADD-ONS - [No Covid In Facebook](https://addons.mozilla.org/addon/no-covid-in-facebook/)
 
 ## Chrome Web Store
 
