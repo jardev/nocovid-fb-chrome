@@ -3,7 +3,7 @@
   "name": "No Covid In Facebook",
   "description": "Hides covid-related words and removes the annoying panel about COVID and vaccination, automatically added by Facebook to related posts. ",
   "author": "Yaroslav Luzin",
-  "version": "0.1",
+  "version": "0.2",
   "content_scripts": [
     {
       "matches": [
