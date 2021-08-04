@@ -2,11 +2,19 @@
 
 Are you annoyed with the "Information Center" panels about Covid-19 added to posts by Facebook? Or annoyed with many covid-related posts and comments?
 
-This plugin for Chromium-based browsers (Google Chrome, Chromium, Brave, etc) censors covid-related keywords and also removes the information panel added by Facebook to related posts.
+This extension for Chromium-based browsers (Google Chrome, Chromium, Brave, etc) censors covid-related keywords and also removes the information panel added by Facebook to related posts. It also works in Firefox.
 
 ## How to use
 
+Install the extension and enjoy. 
+
+### Brave/Chrome/Chromium
+
 Download the source code and put it somewhere in a folder. In your Chrome/Chromium/Brave browser go to the Extensions page, make sure the Developer mode is on, and then Load unpacked, choose the folder and enjoy.
+
+### Firefox
+
+Install the plugin from Firefox Browser ADD-ONS - [No Covid In Facebook](https://addons.mozilla.org/en-CA/developers/addon/no-covid-in-facebook) (it's on review though, should be ready in a few days)
 
 ## Chrome Web Store
 

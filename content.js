@@ -26,7 +26,6 @@ function replaceText(element) {
     if (element.textContent.match("Visit the .* Information Center") &&
         element.parentElement &&
         element.parentElement.nodeName !== "SCRIPT") {
-      console.log(element.parentElement);
       element.parentElement.parentElement.parentElement.parentElement.parentElement.remove();
     }
 
